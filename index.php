@@ -11,20 +11,26 @@
 	<div class"topbar">
 		<nav>
 		 <ul>
-			<li><a href=""></a></li>
-			<li><a href=""></a></li>
-			<li><a href=""></a></li>
-			<li><a href=""></a></li>
-			<li><a href=""></a></li>
+			<li><a href="Beneficios"></a></li>
+			<li><a href="Nutrientes"></a></li>
+			<li><a href="Origen"></a></li>
+			<li><a href="Nosotros"></a></li>
+			<li><a href="Contáctenos"></a></li>
 		 </ul>
 	    </nav>
-	</div>   
+	</div>
+	<nav>
+		<ul>
+			<li><a href="https://www.facebook.com/morinplus"></a></li>
+			<li><a href="https://twitter.com/morinplusgt"></a></li>
+		</ul>
+	</nav>   
 	<header class="header">
 		<h1 class="green-text" class="margin-0"><?php bloginfo('name'); ?></h1>
 	    <h2 class="green-text" class="margin-0"><?php bloginfo('description') ?> </h2>
 	</header>
 	<section>
-		<header class="header-section">
+		<header class="section-header">
 			<h2 class="green-text" class="margin-0">Beneficios</h2>
 		</header>
 		<article>

@@ -30,7 +30,7 @@ section{
 	color: rgb(114, 190, 68);
 }
 
-.header-section{
+.section-header{
 	border-radius: 0.5rem;
 	background-color: rgb(255, 255, 255);
     font-family:'Rage','Kristi';
@@ -42,4 +42,29 @@ section{
 .margin-0{
 	margin: 0;
 	padding: 0;
+}
+.topbar{
+	background-color: rgb(114, 190, 68);
+}
+
+nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0 6em 0 .5em;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin: 0 0.5em 0 0;
+}
+
+nav ul li
+{
+	display: inline-block;
+	margin: 0 0.5em 0 0;
+}
+nav ul li a:hover{
+	background: #16630e;
 }
