@@ -26,3 +26,7 @@ body {
 .green-text{
 	color: rgb(114, 190, 68);
 }
+.header-section{
+	border-radius: 0.5rem;
+	background-color: rgb(255, 255, 255);
+}
