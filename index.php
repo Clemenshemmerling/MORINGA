@@ -7,8 +7,10 @@
 
 </head>
 <body>
-	<h1><?php bloginfo('name'); ?></h1>
-	<h2><?php bloginfo('description') ?> </h2>
+	<header class="header">
+		<h1><?php bloginfo('name'); ?></h1>
+	    <h2><?php bloginfo('description') ?> </h2>
+	</header>
 	<ul>
 		<li><?php bloginfo('name'); ?></li>
 		<li><?php bloginfo('description'); ?></li>
