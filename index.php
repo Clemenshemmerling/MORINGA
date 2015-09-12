@@ -2,8 +2,8 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>MORINPLUS</title>
-	<link rel="stylesheet" type="text/css" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/style.css">
+	<title>Morin Plus</title>
+	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
 
 </head>
 <body>
