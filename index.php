@@ -45,10 +45,10 @@
 		</article>
 		<article>
 			<header>
-				<h3 class="grey-text" class="margin-0">Sirve</h3>
-				<h4 class="green-text">como un potenciador sexual</h4>
+				<h3 class="grey-text" class="margin-0">Prevención</h3>
+				<h4 class="green-text">del Alzheimer</h4>
 			</header>
-			<p>Acelera la pérdida de peso</p>
+			<p>Estudios recientes sugieren que las hojas de Moringa también pueden proporcionar protección contra los síntomas de la enfermedad de Alzheimer. La investigación indica que los suplementos de moringa pueden disminuir el impacto de la enfermedad de Alzheimer en personas que ya padecen la enfermedad y puede retrasar o prevenir su aparición, en los que están en riesgo de desarrollar esta enfermedad devastadora.</p>
 
 		</article>
 		<article>
