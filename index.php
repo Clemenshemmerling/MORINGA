@@ -7,7 +7,7 @@
 
 </head>
 <body>
-	<h1> <?php bloginfo('name'); ?></h1>
-	<h2><?php bloginfo('description')</h2>
+	<h1> <?php bloginfo('name'); ?>  </h1>
+	<h2><?php bloginfo('description') ?> </h2>
 </body>
 </html>
