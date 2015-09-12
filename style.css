@@ -19,6 +19,7 @@ body {
 }
 
 .header{
+	border-radius: 0.5rem;
 	padding: 1rem;
 	background-color: rgb(255, 255, 255);
 }
