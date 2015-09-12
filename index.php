@@ -20,16 +20,16 @@
 	    </nav>
 	</div>   
 	<header class="header">
-		<h1 class="green-text"><?php bloginfo('name'); ?></h1>
-	    <h2 class="green-text"><?php bloginfo('description') ?> </h2>
+		<h1 class="green-text" class="margin-0"><?php bloginfo('name'); ?></h1>
+	    <h2 class="green-text" class="margin-0"><?php bloginfo('description') ?> </h2>
 	</header>
 	<section>
 		<header class="header-section">
-			<h2 class="green-text">Beneficios</h2>
+			<h2 class="green-text" class="margin-0">Beneficios</h2>
 		</header>
 		<article>
 			<header>
-				<h3 class="grey-text">Sirve</h3>
+				<h3 class="grey-text" class="margin-0">Sirve</h3>
 				<h4 class="green-text">como un potenciador sexual</h4>
 			</header>
 			<p>
@@ -39,7 +39,7 @@
 		</article>
 		<article>
 			<header>
-				<h3 class="grey-text">Sirve</h3>
+				<h3 class="grey-text" class="margin-0">Sirve</h3>
 				<h4 class="green-text">como un potenciador sexual</h4>
 			</header>
 			<p>Acelera la pérdida de peso</p>
@@ -47,7 +47,7 @@
 		</article>
 		<article>
 			<header>
-				<h3 class="grey-text">Reduce</h3>
+				<h3 class="grey-text" class="margin-0">Reduce</h3>
 				<h4 class="green-text">la desnutrición</h4>
 			</header>
 			<p>La falta de consumo balanceado de nutrientes o alimentos erróneos, lleva a una acumulación de toxinas dentro del cuerpo, dando como resultado enfermedades crónicas a largo plazo. Ya que un solo grupo de alimentos no puede nutrir al cuerpo con todos los ingredientes vitales que se requieren. La Moringa proporciona a los niños las vitaminas necesarias para mantener su organismo en óptimas condiciones.</p>
