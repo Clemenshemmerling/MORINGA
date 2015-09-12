@@ -8,8 +8,8 @@
 </head>
 <body>
 	<header class="header">
-		<h1><?php bloginfo('name'); ?></h1>
-	    <h2><?php bloginfo('description') ?> </h2>
+		<h1 class="green-text"><?php bloginfo('name'); ?></h1>
+	    <h2 class="green-text"><?php bloginfo('description') ?> </h2>
 	</header>
 	<ul>
 		<li><?php bloginfo('name'); ?></li>
