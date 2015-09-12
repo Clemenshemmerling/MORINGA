@@ -19,7 +19,7 @@ body {
 }
 
 .header{
-	margin-top: 0;
-	padding: 0;
+	margin: 0;
+	padding: 2rem;
 	background-color: rgb(255, 255, 255);
 }
