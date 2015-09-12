@@ -78,3 +78,8 @@ nav ul li a
 nav ul li a:hover{
 	background: #16630e;
 }
+
+.article-p{
+	font-size: 0.3rem;
+	color: #575757;
+}
