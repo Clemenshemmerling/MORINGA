@@ -6,6 +6,12 @@ Author URI: https://platzi.com
 Descripcion: Probando otro tema.
 Version: 1.0;
 */
+html{
+	margin: 0;
+	padding: 0;
+	font-size: 22px;
+	font-family: 'Open Sans', sans-serif, Arial;
+}
 body {
 	background-color: rgb(230, 231, 232);
 }
