@@ -32,8 +32,8 @@
 		</ul>
 	</nav>
 
-	<section>   
-		<header class="header" id="inicio">
+	<section id="inicio">   
+		<header class="header">
 			<figure class="header-figure">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
@@ -57,8 +57,8 @@
 		</article>
 	</section>
 	<section>
-		<header>
-			<h1 class="header-h" id="beneficios" >Beneficios</h1>
+		<header id="beneficios">
+			<h1 class="header-h">Beneficios</h1>
 		</header>
 		<article>
 			<header>
