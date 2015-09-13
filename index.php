@@ -2,6 +2,8 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
+	<meta name="description" content="Morin Plus, es un suplemento alimenticio natural" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
 	<title>MorinPlus</title>
 	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
 	<link rel="stylesheet" type="text/css" href="style.css">
