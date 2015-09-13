@@ -58,11 +58,14 @@
 	</section>
 	<section id="beneficios">
 		<header>
-			<h1 class="header-h">Beneficios</h1>
+			<figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
 		</header>
 		<article>
+			<h1 class="header-h">Beneficios</h1>
 			<header>
-				<h2 class="header-title">Sirve</h2>
+				<h1 class="header-title">Sirve</h1>
 				<h2 class="header-subtitle">como un potenciador sexual</h2>
 			</header>
 			<p class="article-p">
@@ -72,7 +75,7 @@
 		</article>
 		<article>
 			<header>
-				<h2 class="header-title">Prevención</h2>
+				<h1 class="header-title">Prevención</h1>
 				<h2 class="header-subtitle">del Alzheimer</h2>
 			</header>
 			<p class="article-p">Estudios recientes sugieren que las hojas de Moringa también pueden proporcionar protección contra los síntomas de la enfermedad de Alzheimer. La investigación indica que los suplementos de moringa pueden disminuir el impacto de la enfermedad de Alzheimer en personas que ya padecen la enfermedad y puede retrasar o prevenir su aparición, en los que están en riesgo de desarrollar esta enfermedad devastadora.</p>
@@ -80,7 +83,7 @@
 		</article>
 		<article>
 			<header>
-				<h2 class="header-title">Reduce</h2>
+				<h1 class="header-title">Reduce</h1>
 				<h2 class="header-subtitle">la desnutrición</h2>
 			</header>
 			<p class="article-p">La falta de consumo balanceado de nutrientes o alimentos erróneos, lleva a una acumulación de toxinas dentro del cuerpo, dando como resultado enfermedades crónicas a largo plazo. Ya que un solo grupo de alimentos no puede nutrir al cuerpo con todos los ingredientes vitales que se requieren. La Moringa proporciona a los niños las vitaminas necesarias para mantener su organismo en óptimas condiciones.</p>
@@ -88,7 +91,7 @@
 		</article>
 		<article>
 			<header>
-				<h2 class="header-title">Proporciona</h2>
+				<h1 class="header-title">Proporciona</h1>
 				<h2 class="header-subtitle">vitaminas para el crecimiento de los niños</h2>
 			</header>
 			<p class="article-p">La Moringa ayuda a los cuerpos en crecimiento rápido, ya que necesitan de nutrientes para ayudar en el crecimiento muscular y óseo, el desarrollo del cerebro, la claridad mental, la salud de la piel, cabello y uñas, y sobre todo para fortalecer el sistema inmunológico.</p>
