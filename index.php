@@ -17,7 +17,7 @@
 	<div class="topbar">
 		<nav class="topbar-nav">
 		 <ul class="topbar-ul">
-		 	<li class="topbar-li"><a class="topbar-a" href="#inicio">Inicio</a></li>
+		 	<li class="topbar-li"><a class="topbar-a" href="#">Inicio</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#beneficios">Beneficios</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#origen">Origen</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#">Nosotros</a></li>
@@ -109,6 +109,11 @@
 		<article id="origen">
 			 <h1 class="header-h">Origen</h1>
 			 <h2 class="header-subtitle">¿Que es la Moringa?</h2>
+			 <figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa1.jpg" alt="MorinPlus" class="header-image"/>
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa2.jpg" alt="MorinPlus" class="header-image"/>
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa3.jpg" alt="MorinPlus" class="header-image"/>
+			</figure>
 			</header>
 		   	 <p class="article-p">
 		   		 	Es conocida como el Árbol de la Vida o el Árbol Milagroso, originaria de la Sub-Himalaya extensiones de la India. Generalmente florece una vez al año, con flores de pétalos blancos y amarillos, sus frutos son cápsulas de color café lineares entre 20 a 30 centímetros de largo y de 2 a 2.5 centímetros de ancho, las semillas son de color pardo oscuro, globulares de 1 centímetro de diámetro con alas y con una consistencia papirácea.  Entre sus características agronómicas se encuentran su rápido crecimiento, lo cual le permite alcanzar hasta 2 metros de altura a los 8 meses, una elevada resistencia a la sequía, favorable respuesta en suelos ácidos y alcalinos, elevada producción de biomasa y alta resistencia a la poda.   
