@@ -16,12 +16,12 @@
 	<div class="topbar">
 		<nav class="topbar-nav">
 		 <ul class="topbar-ul">
-		 	<li class="topbar-li"><a class="topbar-a" href="">Inicio</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Beneficios</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Nutrientes</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Origen</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Nosotros</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Contáctenos</a></li>
+		 	<li class="topbar-li"><a class="topbar-a" href="#inicio">Inicio</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#beneficios">Beneficios</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#">Nutrientes</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#">Origen</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#">Nosotros</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#">Contáctenos</a></li>
 		 </ul>
 	    </nav>
 	</div>
@@ -33,7 +33,7 @@
 	</nav>
 
 	<section>   
-		<header class="header">
+		<header class="header" id="inicio">
 			<figure class="header-figure">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
@@ -58,7 +58,7 @@
 	</section>
 	<section>
 		<header>
-			<h1 class="header-h" >Beneficios</h1>
+			<h1 class="header-h" id="beneficios" >Beneficios</h1>
 		</header>
 		<article>
 			<header>
