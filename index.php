@@ -125,6 +125,13 @@
      		 </p>
 
 		</article>
+		<section>
+		<header class="header">
+			<figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
+			
+		</header>
 		<article id="nosotros">
 			 <h1 class="header-h">Nosotros</h1>
 			 <h2 class="header-subtitle">Misión</h2>
