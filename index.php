@@ -99,7 +99,7 @@
 		</article>
 		
 	</section>
-	<section id="nosotros">   
+	<section id="origen">   
 		<header class="header">
 			<figure class="header-figure">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
