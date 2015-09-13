@@ -10,6 +10,7 @@ html{
 	font-size: 150%;
 	font-family: 'Noto Sans','BabelSans';
 }
+
 h1, .h1{
 	font-size: 2rem;
 }
@@ -37,22 +38,24 @@ section{
 	padding: 1rem;
 	background-color: rgb(255, 255, 255);
 }
-.green-text{
+.header-h1{
 	color: rgb(114, 190, 68);
+	margin: 0;
+	padding: 0;
 }
-
+.header-h2{
+	color: rgb(114, 190, 68);
+	margin: 0;
+	padding: 0;
+}
 .section-header{
 	border-radius: 0.5rem;
 	background-color: rgb(255, 255, 255);
     font-family:'Rage','Kristi';
     font-size: 2rem;
 }
-.grey-text{
+.h2-grey{
 	color: #939598;
-}
-.margin-0{
-	margin: 0;
-	padding: 0;
 }
 .topbar{
 	background-color: rgb(114, 190, 68);
