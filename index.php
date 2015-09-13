@@ -51,7 +51,7 @@
 		    	<li class="article-p">Suplemento Alimenticio Natural </li>
 		    	<li class="article-p">Contenido:  60 tabletas recubiertas</li>
 		    </ul>
-		    <p article-p>Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
+		    <p class="article-p">Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
 		</article>
 	</section>
 	<section>
