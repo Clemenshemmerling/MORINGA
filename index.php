@@ -10,14 +10,14 @@
 </head>
 <body>
 	<div class="topbar">
-		<nav>
-		 <ul>
-		 	<li><a href="">Inicio</a></li>
-			<li><a href="">Beneficios</a></li>
-			<li><a href="">Nutrientes</a></li>
-			<li><a href="">Origen</a></li>
-			<li><a href="">Nosotros</a></li>
-			<li><a href="">Contáctenos</a></li>
+		<nav class="topbar-nav">
+		 <ul class="topbar-ul">
+		 	<li class="topbar-li"><a class="topbar-a" href="">Inicio</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="">Beneficios</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="">Nutrientes</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="">Origen</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="">Nosotros</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="">Contáctenos</a></li>
 		 </ul>
 	    </nav>
 	</div>

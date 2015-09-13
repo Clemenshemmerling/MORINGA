@@ -73,8 +73,6 @@ section{
 .topbar{
 	background-color: rgb(114, 190, 68);
 }
-
-<<<<<<< HEAD
 .topbar-nav{
  text-align: center;
  height: 3.75em;
@@ -83,38 +81,25 @@ section{
  right: 0;
  top: 0;
 }
-.topbar-lu
-=======
-nav ul
->>>>>>> parent of 3c8761c... Cambio en los nav
-{
+.topbar-ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-nav ul li
-{
+.topbar-li{
 	display: inline-block;
 	margin: 0 0.5em 0 0;
 }
 
-nav ul li
-{
-	display: inline-block;
-	margin: 0 0.5em 0 0;
-
-}
-nav ul li a
-{
+.topbar-a{
 	color: white;
 	display: block;
 	padding: 0.5em;
 	text-decoration: none;
 	-webkit-transition:.3s;
 }
-
-nav ul li a:hover{
+.topbar-a:hover{
 	background: #16630e;
 }
 
