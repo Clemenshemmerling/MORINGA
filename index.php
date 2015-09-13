@@ -109,7 +109,7 @@
 		<article id="origen">
 			 <h1 class="header-h">Origen</h1>
 			 <h2 class="header-subtitle">¿Que es la Moringa?</h2>
-			 <figure class="header-figure">
+			 <figure class="header-finca">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa1.jpg" alt="MorinPlus" class="header-image"/>
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa2.jpg" alt="MorinPlus" class="header-image"/>
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa3.jpg" alt="MorinPlus" class="header-image"/>

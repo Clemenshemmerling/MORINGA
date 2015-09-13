@@ -121,3 +121,8 @@ section{
 .article-one{
 	margin-bottom: 1rem;
 }
+.header-finca{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
