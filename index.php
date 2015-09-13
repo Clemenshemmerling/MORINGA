@@ -12,6 +12,7 @@
 	<div class="topbar">
 		<nav>
 		 <ul>
+		 	<li><a href="">Inicio</a></li>
 			<li><a href="">Beneficios</a></li>
 			<li><a href="">Nutrientes</a></li>
 			<li><a href="">Origen</a></li>
@@ -27,8 +28,8 @@
 		</ul>
 	</nav>   
 	<header class="header">
-		<h1 class="header-h"><?php bloginfo('name'); ?></h1>
-	    <h2 class="header-h"><?php bloginfo('description') ?> </h2>
+		<h1 class="header-title"><?php bloginfo('name'); ?></h1>
+	    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
 	</header>
 	<section>
 		<header class="section-header">

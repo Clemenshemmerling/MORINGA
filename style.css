@@ -38,6 +38,21 @@ section{
 	padding: 1rem;
 	background-color: rgb(255, 255, 255);
 }
+.header-title{
+	color: #939598;
+	font-weight: normal;
+	font-size: 2.5rem;
+	padding: 0;
+	margin: 0;	
+}
+
+.header-subtitle{
+	color: rgb(114, 190, 68);
+	font-weight: normal;
+	font-size: 2.5rem;
+	padding: 0;
+	margin: 0;	
+}
 .header-h{
 	color: rgb(114, 190, 68);
 	margin: 0;
