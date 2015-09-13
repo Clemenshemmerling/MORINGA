@@ -34,7 +34,6 @@ section{
 }
 
 .header{
-	border-radius: 0.5rem;
 	padding: 1rem;
 	background-color: rgb(255, 255, 255);
 }
@@ -67,12 +66,6 @@ section{
 	background-color: rgb(255, 255, 255);
     font-family:'Rage','Kristi';
     font-size: 2rem;
-}
-.h2-grey{
-	color: #939598;
-	margin: 0;
-	padding: 0;
-	font-weight: normal;
 }
 .topbar{
 	background-color: rgb(114, 190, 68);
