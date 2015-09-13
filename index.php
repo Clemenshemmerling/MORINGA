@@ -19,7 +19,6 @@
 		 <ul class="topbar-ul">
 		 	<li class="topbar-li"><a class="topbar-a" href="#inicio">Inicio</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#beneficios">Beneficios</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="#">Nutrientes</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#">Origen</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#">Nosotros</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#">Contáctenos</a></li>
@@ -96,6 +95,29 @@
 
 		</article>
 		
+	</section>
+	<section id="inicio">   
+		<header class="header">
+			<figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
+			
+		</header>
+		<article>
+			 <h1 class="header-h">Origen</h1>
+			 <h2 class="header-subtitle">¿Que es la Moringa?</h2>
+			</header>
+		   	 <p class="article-p">
+		   		 	Es conocida como el Árbol de la Vida o el Árbol Milagroso, originaria de la Sub-Himalaya extensiones de la India. Generalmente florece una vez al año, con flores de pétalos blancos y amarillos, sus frutos son cápsulas de color café lineares entre 20 a 30 centímetros de largo y de 2 a 2.5 centímetros de ancho, las semillas son de color pardo oscuro, globulares de 1 centímetro de diámetro con alas y con una consistencia papirácea.  Entre sus características agronómicas se encuentran su rápido crecimiento, lo cual le permite alcanzar hasta 2 metros de altura a los 8 meses, una elevada resistencia a la sequía, favorable respuesta en suelos ácidos y alcalinos, elevada producción de biomasa y alta resistencia a la poda.   
+     		 </p>
+     		 <p>
+     		 	 La Moringa Oleífera se introdujo y naturalizó en 1,920 como un árbol ornamental y fue utilizado como cerca viva y cortinas rompe vientos.  La moringa se está revelando como un recurso muy valioso para prevenir la desnutrición y múltiples patologías ¡Ayuda a miles de personas a vivir de manera mas saludable, feliz y con mas energía! El contenido de proteínas, vitaminas y minerales es sobresaliente.  La Moringa cuando se toma regularmente, alimenta el cuerpo con todas vitaminas y minerales necesarios.  La Moringa es ciertamente uno de los descubrimientos más recientes de la ciencia moderna.
+     		 </p>
+     		 <p>
+     		     En Guatemala La Moringa, se cultiva hace más de 30 años, según información de una evaluación integral de usos populares que se realizó en 1989, con el apoyo financiero de la Sociedad Alemana de Cooperación Técnica.
+     		 </p>
+
+		</article>
 	</section>
 		<li><?php bloginfo('name'); ?></li>
 		<li><?php bloginfo('description'); ?></li>
