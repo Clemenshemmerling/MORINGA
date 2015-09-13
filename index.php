@@ -36,7 +36,7 @@
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 		</header>
-		<article>
+		<article class="article-one">
 			<h1 class="header-title"><?php bloginfo('name'); ?></h1>
 		    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
 		    <figure class="figure-caja">
@@ -51,7 +51,7 @@
 		    	<li class="article-p">Suplemento Alimenticio Natural </li>
 		    	<li class="article-p">Contenido:  60 tabletas recubiertas</li>
 		    </ul>
-		    <p>Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
+		    <p article-p>Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
 		</article>
 	</section>
 	<section>
