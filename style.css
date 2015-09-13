@@ -74,6 +74,7 @@ section{
 	background-color: rgb(114, 190, 68);
 }
 
+<<<<<<< HEAD
 .topbar-nav{
  text-align: center;
  height: 3.75em;
@@ -83,19 +84,28 @@ section{
  top: 0;
 }
 .topbar-lu
+=======
+nav ul
+>>>>>>> parent of 3c8761c... Cambio en los nav
 {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-.topbar-li
+nav ul li
 {
 	display: inline-block;
 	margin: 0 0.5em 0 0;
 }
 
-.topbar-a
+nav ul li
+{
+	display: inline-block;
+	margin: 0 0.5em 0 0;
+
+}
+nav ul li a
 {
 	color: white;
 	display: block;
@@ -104,27 +114,8 @@ section{
 	-webkit-transition:.3s;
 }
 
-.topbar-a:hover{
+nav ul li a:hover{
 	background: #16630e;
-}
-
-.socialbar{
-
-}
-.socialbar-ul{
-	list-style: none;
-	margin: 0;
-	padding: 0 6em 0 .5em;
-}
-.socialbar-li{
-	display: inline-block;
-	margin: 0 0.5em 0 0;
-}
-.socialbar-a{
-	color: white;
-	display: block;
-	padding: 0.5em;
-	text-decoration: none;
 }
 
 .article-p{

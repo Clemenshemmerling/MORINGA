@@ -10,20 +10,20 @@
 </head>
 <body>
 	<div class="topbar">
-		<nav class="topbar-nav">
+		<nav>
 		 <ul>
-		 	<li class="topbar-li"><a class="topbar-a"href="">Inicio</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Beneficios</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Nutrientes</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Origen</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Nosotros</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="">Contáctenos</a></li>
+		 	<li><a href="">Inicio</a></li>
+			<li><a href="">Beneficios</a></li>
+			<li><a href="">Nutrientes</a></li>
+			<li><a href="">Origen</a></li>
+			<li><a href="">Nosotros</a></li>
+			<li><a href="">Contáctenos</a></li>
 		 </ul>
 	    </nav>
 	</div>
 	<nav class="socialbar">
 		<ul class="socialbar-ul">
-			<li class="socialbar-li"><a class="socialbar-a" href="https://www.facebook.com/morinplus"></a></li>
+			<li class="socialbar-il"><a class="socialbar-a" href="https://www.facebook.com/morinplus"></a></li>
 			<li><a class="socialbar-a" href="https://twitter.com/morinplusgt"></a></li>
 		</ul>
 	</nav>   
