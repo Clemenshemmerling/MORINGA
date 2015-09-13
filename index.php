@@ -42,7 +42,7 @@
 		    <figure class="figure-caja">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/caja-morinplus.png" alt="MorinPlus" class="header-image"/>
 			</figure>
-			<h2 class="precio">Q150.00</h2>
+			<h2 class="price-header">Q150.00</h2>
 		    <p class="article-p">Morin Plus, es un suplemento alimenticio natural que contiene vitaminas, minerales y aminoácidos aportados por las hojas de Moringa Oleífera, necesarios para una nutrición celular efectiva con enzimas naturales</p>
 		    <p class="article-p">Morin Plus, No contiene preservantes químicos, colorantes artificiales, azúcares, glutén y grasas.</p>
 		    <ul>
