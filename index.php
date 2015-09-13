@@ -114,7 +114,6 @@
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa2.jpg" alt="MorinPlus" class="header-image"/>
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa3.jpg" alt="MorinPlus" class="header-image"/>
 			</figure>
-			</header>
 		   	 <p class="article-p">
 		   		 	Es conocida como el Árbol de la Vida o el Árbol Milagroso, originaria de la Sub-Himalaya extensiones de la India. Generalmente florece una vez al año, con flores de pétalos blancos y amarillos, sus frutos son cápsulas de color café lineares entre 20 a 30 centímetros de largo y de 2 a 2.5 centímetros de ancho, las semillas son de color pardo oscuro, globulares de 1 centímetro de diámetro con alas y con una consistencia papirácea.  Entre sus características agronómicas se encuentran su rápido crecimiento, lo cual le permite alcanzar hasta 2 metros de altura a los 8 meses, una elevada resistencia a la sequía, favorable respuesta en suelos ácidos y alcalinos, elevada producción de biomasa y alta resistencia a la poda.   
      		 </p>
@@ -124,6 +123,29 @@
      		 <p class="article-p">
      		     En Guatemala La Moringa, se cultiva hace más de 30 años, según información de una evaluación integral de usos populares que se realizó en 1989, con el apoyo financiero de la Sociedad Alemana de Cooperación Técnica.
      		 </p>
+
+		</article>
+		<article id="nosotros">
+			 <h1 class="header-h">Nosotros</h1>
+			 <h2 class="header-subtitle">Misión</h2>
+		   	 <p class="article-p">
+		   		 	Somos una empresa líder en Centroamérica, dedicada a la investigación, fabricación, exportación y distribución de suplementos nutricionales naturales y confiables.    
+     		 </p>
+     		 <h2 class="header-subtitle">Visión</h2>
+     		 <p class="article-p">
+     		 	 Ser proveedores de una mejor calidad de vida, feliz, activa y prolongada, a través de una cultura de buenos hábitos de vida, contribuyento a combatir la desnutrición en la población más vulnerable. 
+     		 </p>
+     		 <h2 class="header-subtitle">Nuestro Compromiso<
+     		 <p class="article-p">
+     		     Es darles a nuestros distribuidores y consumidores un producto que les ayude a obtener un óptimo bienestar personal y una oportunidad de estabilidad financiera, a través de nuestros productos con fórmulas de alternativa natural que promueven la salud, teniendo como base los cultivos orgánicos, los cuales contribuyen a proporcionar una mejor salud a nuestros clientes. 
+     		 </p>
+     		 <h2 class="header-subtitle">Política de Calidad<
+     		 <p class="article-p">
+     		  En Keter, estamos motivados y comprometidos a implementar y cumplir con excelencia las normas BPM (Buenas Prácticas de Manufactura), para la elaboración de Morin Plus.
+     		 </p>
+     		 <h2 class="header-subtitle">Política de Inocuidad<
+     		 <p class="article-p">
+     		  Ofrecemos productos que cumplen y superan los estándares de inocuidad y calidad para garantizar un producto confiable para nuestros cliente.
 
 		</article>
 	</section>
