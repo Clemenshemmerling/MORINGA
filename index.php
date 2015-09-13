@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content="Morin Plus, es un suplemento alimenticio natural" />
+	<link rel="stylesheet" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/normalizer.css"/>
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
 	<title>MorinPlus</title>
 	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
