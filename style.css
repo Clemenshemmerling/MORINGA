@@ -95,8 +95,8 @@ section{
 .topbar-a:hover{
 	background: #16630e;
 	line-height: 3.75rem;
-	margin-right: 1rem;
-	padding: 1rem;
+	margin-right: 0.5rem;
+	padding: 0.5rem;
 }
 
 .article-p{
