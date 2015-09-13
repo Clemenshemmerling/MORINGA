@@ -5,7 +5,7 @@
 	<title>MorinPlus</title>
 	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link type="image/x-icon" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/icon.png" rel="icon" />
+	<link type="image/x-icon" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/icon.ico" rel="icon" />
 
 </head>
 <body>
