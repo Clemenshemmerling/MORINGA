@@ -135,15 +135,15 @@
      		 <p class="article-p">
      		 	 Ser proveedores de una mejor calidad de vida, feliz, activa y prolongada, a través de una cultura de buenos hábitos de vida, contribuyento a combatir la desnutrición en la población más vulnerable. 
      		 </p>
-     		 <h2 class="header-subtitle">Nuestro Compromiso<
+     		 <h2 class="header-subtitle">Nuestro Compromiso</h2>
      		 <p class="article-p">
      		     Es darles a nuestros distribuidores y consumidores un producto que les ayude a obtener un óptimo bienestar personal y una oportunidad de estabilidad financiera, a través de nuestros productos con fórmulas de alternativa natural que promueven la salud, teniendo como base los cultivos orgánicos, los cuales contribuyen a proporcionar una mejor salud a nuestros clientes. 
      		 </p>
-     		 <h2 class="header-subtitle">Política de Calidad<
+     		 <h2 class="header-subtitle">Política de Calidad</h2>
      		 <p class="article-p">
      		  En Keter, estamos motivados y comprometidos a implementar y cumplir con excelencia las normas BPM (Buenas Prácticas de Manufactura), para la elaboración de Morin Plus.
      		 </p>
-     		 <h2 class="header-subtitle">Política de Inocuidad<
+     		 <h2 class="header-subtitle">Política de Inocuidad</h2>
      		 <p class="article-p">
      		  Ofrecemos productos que cumplen y superan los estándares de inocuidad y calidad para garantizar un producto confiable para nuestros cliente.
 
