@@ -20,7 +20,7 @@
 		 	<li class="topbar-li"><a class="topbar-a" href="#">Inicio</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#beneficios">Beneficios</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#origen">Origen</a></li>
-			<li class="topbar-li"><a class="topbar-a" href="#">Nosotros</a></li>
+			<li class="topbar-li"><a class="topbar-a" href="#nosotros">Nosotros</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#">Contáctenos</a></li>
 		 </ul>
 	    </nav>
