@@ -31,7 +31,7 @@
 	</header>
 	<section>
 		<header class="section-header">
-			<h2 class="header-h" >Beneficios</h2>
+			<h1 class="header-h" >Beneficios</h1>
 		</header>
 		<article>
 			<header>
