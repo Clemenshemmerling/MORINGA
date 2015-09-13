@@ -30,6 +30,9 @@
 	<header class="header">
 		<h1 class="header-title"><?php bloginfo('name'); ?></h1>
 	    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
+	    <figure class="header-figure">
+				<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
 	</header>
 	<section>
 		<header class="section-header">
