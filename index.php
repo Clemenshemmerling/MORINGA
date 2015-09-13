@@ -5,6 +5,8 @@
 	<title>MorinPlus</title>
 	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Kristi" media="all">
+	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" media="all">
 	<link type="image/x-icon" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/icon.png" rel="icon" />
 
 </head>
@@ -37,10 +39,23 @@
 		<article>
 			<h1 class="header-title"><?php bloginfo('name'); ?></h1>
 		    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
+		    <p class="article-p">Morin Plus, es un suplemento alimenticio natural que contiene vitaminas, minerales y aminoácidos aportados por las hojas de Moringa Oleífera, necesarios para una nutrición celular efectiva con enzimas naturales</p>
+		    <p class="article-p">Morin Plus, No contiene preservantes químicos, colorantes artificiales, azúcares, glutén y grasas.</p>
+		    <ul>
+		    	<li class="article-p">Vía administración: Oral</li>
+		    	<li class="article-p">Dosis:  Tomar 3 tabletas diarias</li>
+		    	<li class="article-p">Suplemento Alimenticio Natural </li>
+		    	<li class="article-p">Contenido:  60 tabletas recubiertas</li>
+		    </ul>
+		    <figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/caja-morinplus.png" alt="MorinPlus" class="header-image"/>
+			</figure>
+			<h2 class="header-h">Q150.00</h2>
+		    <p>Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
 		</article>
 	</section>
 	<section>
-		<header class="section-header">
+		<header>
 			<h1 class="header-h" >Beneficios</h1>
 		</header>
 		<article>
