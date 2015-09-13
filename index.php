@@ -26,14 +26,19 @@
 			<li class="socialbar-il"><a class="socialbar-a" href="https://www.facebook.com/morinplus"></a></li>
 			<li><a class="socialbar-a" href="https://twitter.com/morinplusgt"></a></li>
 		</ul>
-	</nav>   
-	<header class="header">
-		<figure class="header-figure">
-				<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
-		</figure>
-		<h1 class="header-title"><?php bloginfo('name'); ?></h1>
-	    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
-	</header>
+	</nav>
+
+	<section>   
+		<header class="header">
+			<figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
+		</header>
+		<article>
+			<h1 class="header-title"><?php bloginfo('name'); ?></h1>
+		    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
+		</article>
+	</section>
 	<section>
 		<header class="section-header">
 			<h1 class="header-h" >Beneficios</h1>
