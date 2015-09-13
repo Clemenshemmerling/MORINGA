@@ -99,14 +99,14 @@
 		</article>
 		
 	</section>
-	<section id="inicio">   
+	<section id="nosotros">   
 		<header class="header">
 			<figure class="header-figure">
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 			
 		</header>
-		<article id="origen">
+		<article>
 			 <h1 class="header-h">Origen</h1>
 			 <h2 class="header-subtitle">¿Que es la Moringa?</h2>
 			 <figure class="header-finca">
