@@ -56,8 +56,8 @@
 		    <p class="article-p">Producto Centroaméricano hecho en Guatemala por Laboratorios Keter, S.A, certificados y aprobados por el Ministerio de Salud de Guatemala.</p>
 		</article>
 	</section>
-	<section>
-		<header id="beneficios">
+	<section id="beneficios">
+		<header>
 			<h1 class="header-h">Beneficios</h1>
 		</header>
 		<article>
