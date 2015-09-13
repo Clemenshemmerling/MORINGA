@@ -110,10 +110,10 @@ section{
 	padding: 0;
 }
 .precio{
+	text-align: center;
 	color: rgb(114, 190, 68);
 	margin: 0;
 	padding: 0;
 	font-size: 3rem;
 	font-family:'Rage','Kristi';
-	text-align: center;
 }
