@@ -74,8 +74,13 @@ section{
 	background-color: rgb(114, 190, 68);
 }
 .topbar-nav{
- text-align: center;
- position: relative;
+  background: rgb(114, 190, 68);
+  text-align: center;
+  height: 3.75em;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 .topbar-ul{
 	list-style: none;
@@ -85,13 +90,13 @@ section{
 
 .topbar-li{
 	display: inline-block;
-	margin: 0 0.5em 0 0;
 }
 
 .topbar-a{
 	color: white;
-	display: block;
-	padding: 0.5em;
+	text-decoration: none;
+	line-height: 3.75em;
+	margin-right: 1.5em;
 	text-decoration: none;
 	-webkit-transition:.3s;
 }
