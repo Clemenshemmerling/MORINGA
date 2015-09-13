@@ -52,6 +52,8 @@ section{
 }
 .h2-grey{
 	color: #939598;
+	margin: 0;
+	padding: 0;
 }
 .topbar{
 	background-color: rgb(114, 190, 68);
