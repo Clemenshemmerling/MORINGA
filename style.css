@@ -76,7 +76,7 @@ section{
 .topbar-nav{
   background: rgb(114, 190, 68);
   text-align: center;
-  height: 3.75em;
+  height: 3.75rem;
   position: fixed;
   left: 0;
   right: 0;
@@ -95,15 +95,15 @@ section{
 .topbar-a{
 	color: white;
 	text-decoration: none;
-	line-height: 3.75em;
-	margin-right: 1.5em;
+	line-height: 3.75rem;
+	margin-right: 1.5rem;
 	text-decoration: none;
 	-webkit-transition:.3s;
 }
 .topbar-a:hover{
 	background: #16630e;
-	line-height: 3.75em;
-	margin-right: 1.5em;
+	line-height: 3.75rem;
+	margin-right: 1.5rem;
 }
 
 .article-p{
