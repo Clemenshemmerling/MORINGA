@@ -163,7 +163,7 @@ section{
 article{
 	margin-bottom: 1rem;
 }
-@media screen and (min-width: 800px){
+@media all and (min-width: 400px){
 	.topbar{
 	background-color: rgb(114, 190, 68);
 }
