@@ -3,14 +3,14 @@ Theme Name: MorinPlus
 Author: Clemens Hemmerling
 Version: 1.0;
 */
-main{
+.footer{
 	display: table;
 }
 
-.Footer-title{
+.footer-title{
 	display: table-cell;
 }
-.Footer-form{
+.footer-form{
 	display: table-cell;
 }
 
