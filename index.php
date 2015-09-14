@@ -156,7 +156,7 @@
 
 		</article>
 	</section>
-	
+
 		<li><?php bloginfo('name'); ?></li>
 		<li><?php bloginfo('description'); ?></li>
 		<li><?php bloginfo('wpurl'); ?></li>
@@ -168,5 +168,17 @@
 		<li><?php bloginfo('sytlesheet_directory'); ?></li>
 		<li><?php bloginfo('sytlesheet_url'); ?></li>
 	</ul>
+	<footer id='contacto' class="Footer">
+			<div  class="Footer-left">
+				<h3 class="Footer-title">Contacto</h3>
+				<p class="Footer-description">Si Este producto es distribuido por Keter, S.A. y sus distribuidores autorizados, envíanos un mensaje por medio de nuestro formulario y muy pronto te estaremos contactando.</p>
+			</div>
+			<form class="Footer-form">
+				<input class="Footer-formInput" type="text" placeholder="Nombre">
+				<input class="Footer-formInput" type="email" placeholder="Mail">
+				<textarea class="Footer-textarea" placeholder="Motivo"></textarea>
+				<button type="submit" class="Footer-button">Contactar</button>
+			</form>
+		</footer>
 </body>
 </html>
