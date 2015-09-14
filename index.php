@@ -162,10 +162,10 @@
 				<p class="footer-description">Si Este producto es distribuido por Keter, S.A. y sus distribuidores autorizados, envíanos un mensaje por medio de nuestro formulario y muy pronto te estaremos contactando.</p>
 			</div>
 			<form class="footer-form">
-				<input class="Footer-formInput" type="text" placeholder="Nombre">
-				<input class="Footer-formInput" type="email" placeholder="Mail">
-				<textarea class="Footer-textarea" placeholder="Motivo"></textarea>
-				<button type="submit" class="Footer-button">Contactar</button>
+				<input class="footer-formInput" type="text" placeholder="Nombre">
+				<input class="footer-formInput" type="email" placeholder="Mail">
+				<textarea class="footer-textarea" placeholder="Motivo"></textarea>
+				<button type="submit" class="footer-button">Contactar</button>
 			</form>
 		</footer>
 </body>

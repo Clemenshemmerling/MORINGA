@@ -16,6 +16,22 @@ Version: 1.0;
 .footer-form{
 	display: table-cell;
 }
+.footer-formInput, .footer-textarea{
+	background-color: white;
+	border: none;
+	margin: 0 auto .8rem;
+	border-radius: 2rem;
+	padding: .8rem;
+	outline: none;
+}
+.Footer-button
+{
+	background: orange;
+	border: none;
+	color: white;
+	padding: .5em;
+	border-radius: 1.5em;
+}
 
 html{
 	font-size: 150%;
