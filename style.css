@@ -10,6 +10,9 @@ Version: 1.0;
 
 .footer-title{
 	display: table-cell;
+	color: white;
+	font-family:'Rage','Kristi';
+	font-weight: normal;
 }
 .footer-form{
 	display: table-cell;
