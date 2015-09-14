@@ -1,9 +1,6 @@
  /*
-Theme Name: Platzi
-Theme URI: https://platzi.com
+Theme Name: MorinPlus
 Author: Clemens Hemmerling
-Author URI: https://platzi.com
-Descripcion: Probando otro tema.
 Version: 1.0;
 */
 html{
@@ -124,4 +121,7 @@ section{
 .header-finca{
 	padding: 0;
 	margin-right: 3rem;
+}
+article{
+	margin-bottom: 1rem;
 }
