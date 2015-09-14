@@ -19,18 +19,18 @@ Version: 1.0;
 .footer-formInput, .footer-textarea{
 	background-color: white;
 	border: none;
-	margin: 0 auto .8rem;
-	border-radius: 2rem;
-	padding: .8rem;
+	margin: 0 auto .5rem;
+	border-radius: 1rem;
+	padding: .5rem;
 	outline: none;
 }
-.Footer-button
+.footer-button
 {
 	background: orange;
 	border: none;
 	color: white;
 	padding: .5em;
-	border-radius: 1.5em;
+	border-radius: 1em;
 }
 
 html{
