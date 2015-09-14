@@ -160,8 +160,8 @@
 		<div></div>
 		<div></div>
 			<div  class="footer-left">
-				<h3 class="footer-title">Contacto</h3>
-				<p class="footer-description">Si Este producto es distribuido por Keter, S.A. y sus distribuidores autorizados, envíanos un mensaje por medio de nuestro formulario y muy pronto te estaremos contactando.</p>
+				<h2 class="footer-title">Contacto</h2>
+				<p class="article-p">Si Este producto es distribuido por Keter, S.A. y sus distribuidores autorizados, envíanos un mensaje por medio de nuestro formulario y muy pronto te estaremos contactando.</p>
 			</div>
 			<form class="footer-form">
 				<input class="footer-formInput" type="text" placeholder="Nombre">
