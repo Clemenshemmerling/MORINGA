@@ -24,11 +24,12 @@
 		 </ul>
 	    </nav>
 	</div>
-	<nav class="socialbar">
-		<ul>
-		</ul>
-	</nav>
-
+	<div>
+		<nav class="socialbar">
+			<ul>
+			</ul>
+		</nav>
+    </div> 
 	<section id="inicio">   
 		<header class="header">
 			<figure class="header-figure">
