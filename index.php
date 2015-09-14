@@ -156,18 +156,6 @@
 
 		</article>
 	</section>
-
-		<li><?php bloginfo('name'); ?></li>
-		<li><?php bloginfo('description'); ?></li>
-		<li><?php bloginfo('wpurl'); ?></li>
-		<li><?php bloginfo('admin_email'); ?></li>
-		<li><?php bloginfo('charset'); ?></li>
-		<li><?php bloginfo('version'); ?></li>
-		<li><?php bloginfo('html_type'); ?></li>
-		<li><?php bloginfo('language'); ?></li>
-		<li><?php bloginfo('sytlesheet_directory'); ?></li>
-		<li><?php bloginfo('sytlesheet_url'); ?></li>
-	</ul>
 	<footer id='contacto' class="Footer">
 			<div  class="Footer-left">
 				<h3 class="Footer-title">Contacto</h3>
