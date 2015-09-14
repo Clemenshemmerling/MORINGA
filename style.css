@@ -5,9 +5,7 @@ Version: 1.0;
 */
 .footer{
 	display: table;
-	background-color: rgb(114, 190, 68);
-	margin: 4rem;
-	padding: 4rem;	 
+	background-color: rgb(114, 190, 68);	 
 }
 
 .footer-title{
