@@ -11,17 +11,18 @@ Version: 1.0;
 .footer-title{
 	display: table-cell;
 	text-align: justify;
-	margin: 3rem;
 }
 .footer-form{
 	display: table-cell;
+	padding: 1rem;
+	width: 8rem;
+	vertical-align: top;
 }
 .footer-formInput, .footer-textarea{
 	background-color: white;
 	border: none;
 	border-radius: .1rem;
 	outline: none;
-	margin: 3rem;
 }
 .footer-button
 {
