@@ -26,7 +26,9 @@
 	</div>
 	<div>
 		<nav class="socialbar">
-			<ul>
+			<ul class="socialbar-ul">
+				<li class="socialbar-li"><a href=""></a></li>
+				<liclass="socialbar-li"><a href=""></a></li>
 			</ul>
 		</nav>
     </div> 
