@@ -6,7 +6,8 @@ Version: 1.0;
 .footer{
 	display: table;
 	background-color: rgb(114, 190, 68);
-	margin-top: 1rem;	 
+	margin: 4rem;
+	padding: 4rem;	 
 }
 
 .footer-title{
@@ -19,7 +20,7 @@ Version: 1.0;
 .footer-formInput, .footer-textarea{
 	background-color: white;
 	border: none;
-	border-radius: 1rem;
+	border-radius: .1rem;
 	outline: none;
 }
 .footer-button
@@ -27,8 +28,8 @@ Version: 1.0;
 	background: orange;
 	border: none;
 	color: white;
-	padding: .5em;
-	border-radius: 1em;
+	padding: .1rem;
+	border-radius: .1rem;
 }
 
 html{
