@@ -25,6 +25,8 @@
 	    </nav>
 	</div>
 	<nav class="socialbar">
+		<ul>
+		</ul>
 	</nav>
 
 	<section id="inicio">   
