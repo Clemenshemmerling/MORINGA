@@ -156,6 +156,49 @@
 
 		</article>
 	</section>
+	<section id="beneficios">
+		<header>
+			<figure class="header-figure">
+					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+			</figure>
+		</header>
+		<article>
+			<h1 class="header-h">Beneficios</h1>
+			<header>
+				<h1 class="header-title">Sirve</h1>
+				<h2 class="header-subtitle">como un potenciador sexual</h2>
+			</header>
+			<p class="article-p">
+			Una sopa hecha con cerca de quince gramos de hojas de moringa hervidas en 250 ml de leche es muy útil como tónico sexual en el tratamiento de la debilidad sexual. Es también útil en esterilidad funcional, tanto en hombres como en mujeres. El polvo de la corteza seca tiene también valor en impotencia, eyaculación precoz y la delgadez de semen. Cerca de 120 gm del polvo de la corteza seca se deben hervir en medio litro de agua durante media hora. Treinta gramos de este polvo, mezclado con una cucharada de miel, se debe tomar tres veces al día durante un mes. Las pastillas de Moringa se pueden tomar 1 tres veces al dia por 30 dias para mejores resultados.
+		    </p>
+
+		</article>
+		<article>
+			<header>
+				<h1 class="header-title">Prevención</h1>
+				<h2 class="header-subtitle">del Alzheimer</h2>
+			</header>
+			<p class="article-p">Estudios recientes sugieren que las hojas de Moringa también pueden proporcionar protección contra los síntomas de la enfermedad de Alzheimer. La investigación indica que los suplementos de moringa pueden disminuir el impacto de la enfermedad de Alzheimer en personas que ya padecen la enfermedad y puede retrasar o prevenir su aparición, en los que están en riesgo de desarrollar esta enfermedad devastadora.</p>
+
+		</article>
+		<article>
+			<header>
+				<h1 class="header-title">Reduce</h1>
+				<h2 class="header-subtitle">la desnutrición</h2>
+			</header>
+			<p class="article-p">La falta de consumo balanceado de nutrientes o alimentos erróneos, lleva a una acumulación de toxinas dentro del cuerpo, dando como resultado enfermedades crónicas a largo plazo. Ya que un solo grupo de alimentos no puede nutrir al cuerpo con todos los ingredientes vitales que se requieren. La Moringa proporciona a los niños las vitaminas necesarias para mantener su organismo en óptimas condiciones.</p>
+
+		</article>
+		<article>
+			<header>
+				<h1 class="header-title">Proporciona</h1>
+				<h2 class="header-subtitle">vitaminas para el crecimiento de los niños</h2>
+			</header>
+			<p class="article-p">La Moringa ayuda a los cuerpos en crecimiento rápido, ya que necesitan de nutrientes para ayudar en el crecimiento muscular y óseo, el desarrollo del cerebro, la claridad mental, la salud de la piel, cabello y uñas, y sobre todo para fortalecer el sistema inmunológico.</p>
+
+		</article>
+		
+	</section>
 		<li><?php bloginfo('name'); ?></li>
 		<li><?php bloginfo('description'); ?></li>
 		<li><?php bloginfo('wpurl'); ?></li>
