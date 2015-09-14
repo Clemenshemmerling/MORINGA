@@ -16,7 +16,7 @@
 	<div class="topbar">
 		<nav class="topbar-nav">
 		 <ul class="topbar-ul">
-		 	<li class="topbar-li"><a class="topbar-a" href="#">Inicio</a></li>
+		 	<li class="topbar-li"><a class="topbar-a" href="#inicio">Inicio</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#beneficios">Beneficios</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#origen">Origen</a></li>
 			<li class="topbar-li"><a class="topbar-a" href="#nosotros">Nosotros</a></li>
@@ -25,10 +25,6 @@
 	    </nav>
 	</div>
 	<nav class="socialbar">
-		<ul class="socialbar-ul">
-			<li class="socialbar-il"><a class="socialbar-a" href="https://www.facebook.com/morinplus"></a></li>
-			<li><a class="socialbar-a" href="https://twitter.com/morinplusgt"></a></li>
-		</ul>
 	</nav>
 
 	<section id="inicio">   
@@ -37,7 +33,7 @@
 					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 		</header>
-		<article class="article-one">
+		<article class="article-one" id="inicio">
 			<h1 class="header-title"><?php bloginfo('name'); ?></h1>
 		    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
 		    <figure class="figure-caja">
