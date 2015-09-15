@@ -3,13 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content="Morin Plus, es un suplemento alimenticio natural" />
-	<link rel="stylesheet" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/normalizer.css"/>
+	<link rel="stylesheet" href="http://52.11.46.232/wp-content/themes/MORINGA/normalizer.css"/>
 	<title>MorinPlus</title>
 	<link rel="stylesheet"  href="<?php bloginfo(stylesheet_url) ?>">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Kristi" media="all">
 	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" media="all">
-	<link type="image/x-icon" href="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/icon.png" rel="icon" />
+	<link type="image/x-icon" href="http://52.11.46.232/wp-content/themes/MORINGA/img/icon.png" rel="icon" />
 
 </head>
 <body>
@@ -35,14 +35,14 @@
 	<section id="inicio">   
 		<header class="header">
 			<figure class="header-figure">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 		</header>
 		<article class="article-one" id="inicio">
 			<h1 class="header-title"><?php bloginfo('name'); ?></h1>
 		    <h2 class="header-subtitle"><?php bloginfo('description') ?> </h2>
 		    <figure class="figure-caja">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/caja-morinplus.png" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/caja-morinplus.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 			<h2 class="price-header">Q150.00</h2>
 		    <p class="article-p">Morin Plus, es un suplemento alimenticio natural que contiene vitaminas, minerales y aminoácidos aportados por las hojas de Moringa Oleífera, necesarios para una nutrición celular efectiva con enzimas naturales</p>
@@ -59,7 +59,7 @@
 	<section id="beneficios">
 		<header>
 			<figure class="header-figure">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 		</header>
 		<article>
@@ -102,7 +102,7 @@
 	<section id="origen">   
 		<header class="header">
 			<figure class="header-figure">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 			
 		</header>
@@ -110,9 +110,9 @@
 			 <h1 class="header-h">Origen</h1>
 			 <h2 class="header-subtitle">¿Que es la Moringa?</h2>
 			 <figure class="header-finca">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa1.jpg" alt="MorinPlus" class="header-image"/>
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa2.jpg" alt="MorinPlus" class="header-image"/>
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/fincamoringa3.jpg" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/fincamoringa1.jpg" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/fincamoringa2.jpg" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/fincamoringa3.jpg" alt="MorinPlus" class="header-image"/>
 			</figure>
 		   	 <p class="article-p">
 		   		 	Es conocida como el Árbol de la Vida o el Árbol Milagroso, originaria de la Sub-Himalaya extensiones de la India. Generalmente florece una vez al año, con flores de pétalos blancos y amarillos, sus frutos son cápsulas de color café lineares entre 20 a 30 centímetros de largo y de 2 a 2.5 centímetros de ancho, las semillas son de color pardo oscuro, globulares de 1 centímetro de diámetro con alas y con una consistencia papirácea.  Entre sus características agronómicas se encuentran su rápido crecimiento, lo cual le permite alcanzar hasta 2 metros de altura a los 8 meses, una elevada resistencia a la sequía, favorable respuesta en suelos ácidos y alcalinos, elevada producción de biomasa y alta resistencia a la poda.   
@@ -128,7 +128,7 @@
 		<section id="nosotros">
 		<header class="header">
 			<figure class="header-figure">
-					<img src="http://192.168.0.20/wordpress/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
+					<img src="http://52.11.46.232/wp-content/themes/MORINGA/img/logo.png" alt="MorinPlus" class="header-image"/>
 			</figure>
 			
 		</header>
